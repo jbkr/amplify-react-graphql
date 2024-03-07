@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyc1526536b1ea4-staging-60954-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050140604:role/amplify-amplifyc1526536b1ea4-staging-60954-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050140604:role/amplify-amplifyc1526536b1ea4-staging-60954-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyc1526536b1ea4-staging-60954-deployment",
+      "UnauthRoleName": "amplify-amplifyc1526536b1ea4-staging-60954-unauthRole",
+      "StackName": "amplify-amplifyc1526536b1ea4-staging-60954",
+      "StackId": "arn:aws:cloudformation:us-east-2:975050140604:stack/amplify-amplifyc1526536b1ea4-staging-60954/50eaea00-dc49-11ee-b0a3-021b1b73fb7b",
+      "AmplifyAppId": "d3u2p4gxjvtdeb"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactgraphql0c008790": {}
+      }
+    }
+  }
+}
